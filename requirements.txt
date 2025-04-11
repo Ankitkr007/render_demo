@@ -1,0 +1,13 @@
+langchain_community
+PyPDF2
+numpy
+dotenv
+langchain_nomic
+langchain-ollama
+langchain-core
+streamlit
+# sentence-transformers
+python-dotenv
+einops
+chardet
+PyMuPDF
