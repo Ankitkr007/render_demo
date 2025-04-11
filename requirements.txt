@@ -11,3 +11,4 @@ python-dotenv
 einops
 chardet
 PyMuPDF
+gunicorn
